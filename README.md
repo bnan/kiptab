@@ -40,7 +40,7 @@ $ ./start.sh
 1. Clone the repository:
 
 ```
-$ git clone https://github.com/faviouz/kiptab.git
+$ git clone https://github.com/bnan/kiptab.git
 $ cd kiptab/
 ```
 
